@@ -5,7 +5,6 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #645a5a;
-    /* light gray background */
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -14,9 +13,7 @@ body {
     height: 550px;
     width: 800px;
     background-color: #252c91;
-    /* deep indigo blue */
     color: #ffffff;
-    /* white text */
     border-radius: 12px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     display: block;
